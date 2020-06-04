@@ -1,2 +1,3 @@
 hello this is sai
 and this is my first git workout ...
+fetching details from global repo to ocal repo
